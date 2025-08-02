@@ -3,7 +3,7 @@
 This repository contains the code, data samples, and instructions for reproducing the results of our paper:
 
 **📄 Title**: InqEduAgent: A Personalized Multi-Agent Framework for Collaborative Learning Partner Recommendation  
-**🎓 Conference**: AAAI 2025 (submitted)  
+**🎓 Conference**: AAAI 2026 (submitted)  
 **✍️ Authors**: *[Anonymous for review]*
 
 ## 🔍 Overview
